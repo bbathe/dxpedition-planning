@@ -1,0 +1,23 @@
+---
+description: Which expedition file holds which facts
+globs: expeditions/**/*.md
+alwaysApply: false
+---
+
+# Expedition documents
+
+Status, entity, callsign, UTC dates, and blockers live in that expedition's `README.md`. Keep the README to a short index. Put detail in the matching file:
+
+- `plan.md` — objective, team, license, access
+- `logistics.md` — travel, site, power, medical, shipping
+- `station.md` — radios, antennas, filters, computers, spares
+- `operating.md` — bands, modes, shifts, pilot, goals
+- `qsl.md` — LoTW, Club Log, cards
+- `budget.md` — costs and funding
+- `risks.md` — risk, impact, mitigation, owner
+- `after-action.md` — closeout only
+- `daily/YYYY-MM-DD.md` — that UTC day's operations
+
+Use tables for gear, shifts, budget lines, and risks. Unknown cells stay `TBD`.
+
+QSO totals, costs, and solar numbers need the user or a named source and the time observed. Do not edit `expeditions/_template/` while working on a real expedition.

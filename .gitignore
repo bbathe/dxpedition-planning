@@ -1,0 +1,19 @@
+.DS_Store
+Thumbs.db
+*.swp
+.env
+.env.*
+*.pem
+id_rsa*
+id_ed25519*
+
+# Identity documents and private records stay out of git.
+**/*passport*
+**/*medical*
+**/secrets/**
+**/private/
+
+# Local recordings and disk images. Commit ADIF logs only when you choose to.
+*.wav
+*.mp3
+*.iso
