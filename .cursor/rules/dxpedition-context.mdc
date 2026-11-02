@@ -19,6 +19,7 @@ Read and follow the matching skill:
 ## Facts
 
 - Record facts the user or a cited source supplied. Mark gaps `TBD` and name the missing fact.
+- Put the URL in the same sentence the first time a page is named. This includes lodging, flights, license forms, and advisory pages, in the reply and in any saved note.
 - Times are UTC. When local time matters, include the zone and the UTC equivalent.
 - Callsigns in uppercase. A goal is labeled `Goal`. A forecast is labeled `Forecast`.
 - Do not set status to `committed` while license or landing permission is unconfirmed, unless the user explicitly accepts that risk.
@@ -32,3 +33,7 @@ Do not add passports, medical details, home addresses, payment data, or license 
 Bad: `License approved. Depart 8am local.`
 
 Good: `License: TBD. Need administration, status, and issued callsign. Boat: TBD UTC. Add 08:00 local only after the zone is confirmed.`
+
+Bad: `Friendship House on Bequia has two acres and a path to the beach.`
+
+Good: `Friendship House on Bequia has two acres and a path to the beach (https://www.friendshiphousebequia.com/the-house).`

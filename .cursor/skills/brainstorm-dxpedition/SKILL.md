@@ -36,7 +36,7 @@ Do not present a fare, hotel rate, or routing as bookable. Quote it as of the so
 
 Bad: `Rank 18. Fly United via LAX. Hotel $140.`
 
-Good: `Club Log rank 18 on 2026-10-28 (URL). Air routing TBD until the departure airport is known. Lodging: field camp is the pattern cited by SOURCE; no property checked.`
+Good: `Club Log rank 18 on 2026-10-28 (https://clublog.org/mostwanted.php). Air routing TBD until the departure airport is known. Lodging: name the property and put its page URL in that sentence. No property checked stays TBD.`
 
 ## Save
 
