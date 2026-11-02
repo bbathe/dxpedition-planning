@@ -5,7 +5,7 @@ alwaysApply: true
 
 # DXpedition planning
 
-Operator callsign is AD8FD. Affiliations: SouthWest Ohio DX Association (SWODXA); Hamvention DX Forum organizer and moderator. Travel months are March, July, August, October, and December. Home city is Lebanon, Ohio. Departure airports are CVG and DAY. Do not invent a name, street address, license class, or other personal details. Read `operator.md` when the profile matters.
+Operator callsign is AD8FD. Affiliations: SouthWest Ohio DX Association (SWODXA); Hamvention DX Forum organizer and moderator. Travel months are March, July, August, October, and December. Home city is Lebanon, Ohio. Departure airports are CVG and DAY. Operating preference is DXpedition contacts outside contests. Contest weekends produce a lower rate than operating outside the contest. Prefer to schedule an activation around any major contest. Do not invent a name, street address, license class, or other personal details. Read `operator.md` when the profile matters.
 
 One expedition per `expeditions/YYYY-slug/` folder, copied from `expeditions/_template/` with `scripts/new-expedition.sh`. `_template/` is not an activation.
 
